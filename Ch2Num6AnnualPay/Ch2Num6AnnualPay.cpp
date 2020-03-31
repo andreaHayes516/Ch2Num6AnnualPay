@@ -19,6 +19,7 @@ int main() {
 
     annualPay = payAmount * payPeriod;
 
+    // howdy
     cout << "Annual Pay $" << annualPay << endl;
 
     return 0;
